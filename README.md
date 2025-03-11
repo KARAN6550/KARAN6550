@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karan Panchal</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+- 🤖 I am actively engaged in developing and refining **RLHF** and **SFT** models to enhance the performance and efficiency of cutting-edge **large language models**.
+
 - 🔭 I’m currently working on **Machine Learning projects**
 
 - 🌱 I’m currently learning **Machine learning, Deep Learning, Generative AI, Prompt Engineering**
